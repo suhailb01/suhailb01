@@ -1,6 +1,7 @@
 ##
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suhail+Basha;Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+MongoDB;Always+learning+new+things)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Suhail+Basha;Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+MongoDB;Always+learning+new+things" alt="Typing Animation" />
+</p>
 ---
 
 # 💫 About Me:
